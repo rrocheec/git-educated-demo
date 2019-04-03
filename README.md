@@ -1,4 +1,5 @@
 # Git Educated with diversIT
+test
 
 This repository is for the live demonstration within the "Git Educated with diversIT" workshop to demonstrate collaboration with Git.
 
